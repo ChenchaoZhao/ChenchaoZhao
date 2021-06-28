@@ -33,6 +33,7 @@ __University of Illinois at Urbana-Champaign__
   * Exact solution of heat equation in a high-dimensional sphere
   * Applied to SVM document classification
   * [Publication](https://www.frontiersin.org/articles/10.3389/fams.2018.00001/full)
+  * [Additional proof](https://chenchao-zhao.gitbook.io/machine-learning-demystified/blogs/n-sphere-counterpart-of-gaussian-kernel)
 * Data Transformation
   * Effective Dissimilarity Transformation
   * Applied to cell line clustering
@@ -63,6 +64,9 @@ __University of Illinois at Urbana-Champaign__
   * Perform calculations in various hypothetical scenarios with ease
   * Symbolic manipulations based on `Sympy`
   * Great tool for case study or back-of-envelope calculations
+* My Machine Learning Blog 
+  * [Machine Learning Demystified](https://chenchao-zhao.gitbook.io/machine-learning-demystified/)
+  * My scattered thoughts on ML
 
 ## Skills
 ### Hardcore
