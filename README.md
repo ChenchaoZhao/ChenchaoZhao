@@ -11,10 +11,10 @@ __Clarifai Inc.__
   * Detection and tracking
   * Image embedding
   * Fine-grained classification
-  * Semantic Segmentation
+  * Semantic segmentation
 * NLP
   * Token classification
-  * Named Entity Recognition
+  * Named Entity Recognition (NER)
 * DevOps
   * Docker
   * K8s and Kubeflow
