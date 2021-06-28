@@ -41,9 +41,32 @@ __University of Illinois at Urbana-Champaign__
   * Reinterpreted spectral clustering through the lens of quantum tunneling
   * [Publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.022301)
 
+
+## Project Highlights
+
+* [TorchLiter](https://github.com/ChenchaoZhao/TorchLiter)
+  * Customizable and light-weight neural network training toolbox
+  * Built on PyTorch
+  * Pronouced "Torch Lighter"
+* [MNIST-Detection](https://github.com/ChenchaoZhao/mnist-detection)
+  * Randomly scattered MNIST digits for quick detector experimentation
+  * You can also use FashionMNIST or alike 
+* [MasonJar](https://github.com/chenchao-clarifai/MasonJar)
+  * Repo-free experiment containerization
+  * Build, test, and push `Docker` images all in `Python`
+  * Reuse experiement images through `Python` class inheritance
+* [Mario](https://github.com/chenchao-clarifai/Mario)
+  * `Kubeflow` is very much like `Tensorflow` (of course they share the last name)
+  * `Mario` is the `Kera` or `PyTorch` of `Kubeflow`
+  * Users can intuitively build pipelines without lengthy and confusing API bureaucracy
+* [Varius](https://github.com/ChenchaoZhao/varius)
+  * Perform calculations in various hypothetical scenarios with ease
+  * Symbolic manipulations based on `Sympy`
+  * Great tool for case study or back-of-envelope calculations
+
 ## Skills
 ### Hardcore
-Theoretical Physics | Mathematics
+Theoretical Physics | Mathematics | Probability | Statistical Learning
 
 ### Deep Learning
 PyTorch | Distributed Training | TorchScript
