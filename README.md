@@ -1,3 +1,4 @@
+
 ## Education
 
 * __Ph.D.__ _University of Illinois at Urbana-Champaign_, Theoretical Physics
@@ -79,7 +80,7 @@ Fine-Grained Classification | Detection | Tracking | ReID | Segmentation
 #### NLP
 Token Classification | Named Entity Recognition | Transformers
 #### Deployment
-Triton | Apple CoreML | Google Protobuf
+Nvidia Triton | Apple CoreML | Google Protobuf
 #### DevOps
 Docker | Kubeflow | Kubernetes | CI | CD
 
