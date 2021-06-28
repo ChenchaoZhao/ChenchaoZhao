@@ -13,7 +13,7 @@ __Clarifai Inc.__
   * Image embedding
   * Fine-grained classification
   * Semantic segmentation
-* NLP
+* Natural Languange Processing
   * Token classification
   * Named Entity Recognition (NER)
 * DevOps
@@ -49,7 +49,7 @@ __University of Illinois at Urbana-Champaign__
 * [TorchLiter](https://github.com/ChenchaoZhao/TorchLiter)
   * Customizable and light-weight neural network training toolbox
   * Built on PyTorch
-  * Pronouced "Torch Lighter"
+  * Pronounced "Torch Lighter"
 * [MNIST-Detection](https://github.com/ChenchaoZhao/mnist-detection)
   * Randomly scattered MNIST digits for quick detector experimentation
   * You can also use FashionMNIST or alike 
@@ -65,7 +65,8 @@ __University of Illinois at Urbana-Champaign__
   * Perform calculations in various hypothetical scenarios with ease
   * Symbolic manipulations based on `Sympy`
   * Great tool for case study or back-of-envelope calculations
-* My Machine Learning Blog 
+  * Almost pure `Python`, highly portable, even on mobile devices, calculation on the go
+* Machine Learning Blog 
   * [Machine Learning Demystified](https://chenchao-zhao.gitbook.io/machine-learning-demystified/)
   * My scattered thoughts on ML
 
