@@ -25,6 +25,7 @@ __Insight Data Science__
 * Satellite image processing
 * Partial convolution inpainting model
 * [Repo](https://github.com/ChenchaoZhao/NeuralCamouflage)
+* [Page](https://chenchaozhao.github.io/NeuralCamouflage/)
 
 ### Graduate Researcher
 __University of Illinois at Urbana-Champaign__
