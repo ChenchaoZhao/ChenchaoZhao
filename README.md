@@ -1,5 +1,3 @@
-# Chenchao Zhao
-
 ## Education
 
 * __Ph.D.__ _University of Illinois at Urbana-Champaign_, Theoretical Physics
