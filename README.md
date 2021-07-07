@@ -1,7 +1,7 @@
 # About Me
 
 ## Project Demos
-* [Named Entity Classification](named_entity_recognition_demo.md)
+* [Named Entity Recognition](named_entity_recognition_demo.md)
 
 ## Education
 
