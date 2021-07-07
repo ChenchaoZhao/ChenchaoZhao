@@ -1,5 +1,8 @@
 # About Me
 
+## Project Demos
+* [Named Entity Classification](named_entity_recognition_demo.md)
+
 ## Education
 
 * __Ph.D.__ _University of Illinois at Urbana-Champaign_, Theoretical Physics
@@ -22,11 +25,6 @@ __Clarifai Inc.__
   * K8s and Kubeflow
   * CI/CD
 
-<details>
- <summary>Demos: click to expland</summary>
-
-[Named Entity Classification](named_entity_recognition_demo.md)
-</details>
 
 ### A.I. Fellowship
 __Insight Data Science__
