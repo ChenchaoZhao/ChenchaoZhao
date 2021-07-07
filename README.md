@@ -1,5 +1,27 @@
 # About Me
 
+## Project Demos
+### Named Entity Classification
+<details><summary> click to show </summary>
+ 
+#### Finance document
+ > **DiDi Global Inc [ORG]** . is regulated by the U . S . Security and Exchange Commission and incorporated in **the state of Cayman Islands [LOC]** . **DiDi Global Inc [ORG]** is primarily in the business of services - business services , nec . For financial reporting , their fiscal year ends on December 31st . This page includes all SEC registration details as well as a list of all documents ( S - 1 , Prospectus , Current Reports , 8 - K , 10K , Annual Reports ) filed by **DiDi Global Inc [ORG]** .
+
+#### Medical Abstract
+ > To explore the relationship between consumption of fish sauce and the risk of **gastric cancer [Pathological_formation]** in Fujian Province . An ecological study was carried out . A total of 11000 subjects from 55 townships were randomly selected from 10 counties within Fujian Province . All subjects were local residents who had been living in Fujian Province for more than 20 years , within the age group of 45 - 74 years . Trained interviewers conducted face - to - face interviews with a standardized questionnaire , which covered the frequency and amount of food intake , dietary habit , tobacco and alcohol consumption and history of chronic **gastric [Organ]** diseases . Univariate and multivariate analyses were performed using Epi - info and SAS statistical packages , respectively . A significant correlation between monthly consumption of fish sauce and mortality of **gastric cancer [Pathological_formation]** was found . Pearson ' s coefficient of correlation was statistically significant with r = 0 .7356 for males , r = 0 . 5246 for females ( P < 0 . 01 ) . In the multivariate analysis , consumption of fish sauce still showed an association with the risk of gastric cancer [Pathological_formation] . No significant positive correlation between **esophagus cancer  [Pathological_formation]** , **liver cancer [Pathological_formation]** , **colon cancer [Pathological_formation]** and consumption of fish sauce were observed . Long - term intake of fish sauce may be related to high mortality of **gastric cancer [Pathological_formation]** . Consumption of fish sauce might be one of important and unique etiologic factors of **gastric cancer [Pathological_formation]** in Fujian Province . Further studies are needed to confirm this ecological study .
+ 
+#### News
+ > The **Foreign Secretary Boris Johnson [Person]** joined **US Secretary of State John Kerry [Person]** and **international partners [Organisation]** in **Paris [Location]** on **10 December [Temporal]** for talks on the humanitarian situation in **Aleppo [Location]** and across **Syria [Location]** , and efforts to renew the political process to find a solution to the conflict .
+ 
+ > The battle took place in and around the demolished **ruins [Location]** of the **New Avengers Facility [Location]** in **New York [Location]** , shortly after it was destroyed by **Thanos [Person]** ' flagship , **the Sanctuary II [Organisation]** . After **the Avengers [Organisation]**, united under the banner of **Captain America [Person]** , rallied their own defenses in **the united Wakandan forces [Organisation]** , **the Masters of the Mystic Arts [Organisation]** , **the [Organisation] Ravagers [Organisation]** , **the Asgardians [Organisation]** , and **the Guardians of the Galaxy [Organisation]** , both sides then collided to a head in a massive assault , fighting for possession of the **Infinity Stones [Weapon]** . Many casualties from both battlefronts resulted from the battle .
+ 
+ > **Luke Skywalker [Person]** and **friends [Organisation]** travel to **Tatooine [Location]** to rescue their friend **Han Solo [Person]** from the vile **Jabba the Hutt [Location]** . **The Empire [Organisation]** prepares to crush **the Rebellion [Organisation]** with a more powerful Death Star, while **the Rebel fleet [Organisation]** mounts a massive attack on **the space station [Location]** . **Luke Skywalker [Person]** confronts his father , **Anakin [Person]** , in a final climactic duel before the evil **Emperor Sidious [Person]** .
+
+
+
+   
+</details>
+
 ## Education
 
 * __Ph.D.__ _University of Illinois at Urbana-Champaign_, Theoretical Physics
