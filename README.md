@@ -30,16 +30,14 @@ __Clarifai Inc.__
 __Insight Data Science__
 * Satellite image processing
 * Partial convolution inpainting model
-* [Repo](https://github.com/ChenchaoZhao/NeuralCamouflage)
-* [Page](https://chenchaozhao.github.io/NeuralCamouflage/)
+* [Repo](https://github.com/ChenchaoZhao/NeuralCamouflage) | [Page](https://chenchaozhao.github.io/NeuralCamouflage/)
 
 ### Graduate Researcher
 __University of Illinois at Urbana-Champaign__
 * Heat Kernel
   * Exact solution of heat equation in a high-dimensional sphere
   * Applied to SVM document classification
-  * [Publication](https://www.frontiersin.org/articles/10.3389/fams.2018.00001/full)
-  * [Additional proof](https://chenchao-zhao.gitbook.io/machine-learning-demystified/blogs/n-sphere-counterpart-of-gaussian-kernel)
+  * [Publication](https://www.frontiersin.org/articles/10.3389/fams.2018.00001/full) | [Additional proof](https://chenchao-zhao.gitbook.io/machine-learning-demystified/blogs/n-sphere-counterpart-of-gaussian-kernel)
 * Data Transformation
   * Effective Dissimilarity Transformation
   * Applied to cell line clustering
