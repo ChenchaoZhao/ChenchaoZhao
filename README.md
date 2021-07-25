@@ -64,6 +64,11 @@ __University of Illinois at Urbana-Champaign__
   * `Kubeflow` is very much like `Tensorflow` (of course they share the last name)
   * `Mario` is the `Kera` or `PyTorch` of `Kubeflow`
   * Users can intuitively build pipelines without lengthy and confusing API bureaucracy
+
+* [Groot](https://github.com/ChenchaoZhao/groot)
+  * Manage and visualize hierarchical concepts in style
+  * Serialize trees in compact yaml files
+  * Organize concepts by level and represent concepts by atomic concepts
 * [Varius](https://github.com/ChenchaoZhao/varius)
   * Perform calculations in various hypothetical scenarios with ease
   * Symbolic manipulations based on `Sympy`
