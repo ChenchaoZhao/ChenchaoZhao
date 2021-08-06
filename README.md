@@ -56,11 +56,11 @@ __University of Illinois at Urbana-Champaign__
 * [MNIST-Detection](https://github.com/ChenchaoZhao/mnist-detection)
   * Randomly scattered MNIST digits for quick detector experimentation
   * You can also use FashionMNIST or alike 
-* [MasonJar](https://github.com/chenchao-clarifai/MasonJar)
+* [MasonJar](https://github.com/Clarifai/MasonJar)
   * Repo-free experiment containerization
   * Build, test, and push `Docker` images all in `Python`
   * Reuse experiement images through `Python` class inheritance
-* [Mario](https://github.com/chenchao-clarifai/Mario)
+* [Mario](https://github.com/Clarifai/Mario)
   * `Kubeflow` is very much like `Tensorflow` (of course they share the last name)
   * `Mario` is the `Kera` or `PyTorch` of `Kubeflow`
   * Users can intuitively build pipelines without lengthy and confusing API bureaucracy
