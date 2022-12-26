@@ -10,6 +10,11 @@
 
 ## Experience
 
+### Applied Scientist
+
+__Amazon Inc.__
+* Special Projects
+
 ### Senior Deep Learning Research Scientist
 __Clarifai Inc.__
 * Computer Vision
